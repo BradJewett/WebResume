@@ -20,3 +20,13 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.page-column {
+    display: inline-flex;
+    flex: 50%;
+}
+
+.nav-item-selected {
+    font-weight: bold;
+}
+
