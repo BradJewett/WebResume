@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.github",
+    "\\WRCoreApp",
+    "\\WRCoreApp\\obj",
+    "\\WRCoreApp\\Pages"
   ],
-  "SelectedNode": "\\C:\\Users\\Brad\\Source\\Repos\\WebResume",
   "PreviewInSolutionExplorer": false
 }
