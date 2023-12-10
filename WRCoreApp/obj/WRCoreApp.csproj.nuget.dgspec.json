@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Brad\\Source\\Repos\\WebResume\\WRCoreApp\\WRCoreApp.csproj": {}
+    "C:\\Users\\Brad\\source\\repos\\WebResume2\\WRCoreApp\\WRCoreApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Brad\\Source\\Repos\\WebResume\\WRCoreApp\\WRCoreApp.csproj": {
+    "C:\\Users\\Brad\\source\\repos\\WebResume2\\WRCoreApp\\WRCoreApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Brad\\Source\\Repos\\WebResume\\WRCoreApp\\WRCoreApp.csproj",
+        "projectUniqueName": "C:\\Users\\Brad\\source\\repos\\WebResume2\\WRCoreApp\\WRCoreApp.csproj",
         "projectName": "WRCoreApp",
-        "projectPath": "C:\\Users\\Brad\\Source\\Repos\\WebResume\\WRCoreApp\\WRCoreApp.csproj",
+        "projectPath": "C:\\Users\\Brad\\source\\repos\\WebResume2\\WRCoreApp\\WRCoreApp.csproj",
         "packagesPath": "C:\\Users\\Brad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Brad\\Source\\Repos\\WebResume\\WRCoreApp\\obj\\",
+        "outputPath": "C:\\Users\\Brad\\source\\repos\\WebResume2\\WRCoreApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
