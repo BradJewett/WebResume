@@ -21,25 +21,27 @@ body {
   margin-bottom: 60px;
 }
 
-.page-column {
-    position: center;
+.grid--full-width {
+    width: 100%;
+}
+
+.grid--row {
+    display: flex;
+}
+
+.grid--column {
+    flex: 50%
+}
+
+.grid--tile {
+    margin: 2% 2% 2% 2%;
+    padding: 2% 2% 2% 2%;
+    text-align: center;
 }
 
 .nav-item-selected {
     font-weight: bold;
     background-image: linear-gradient(grey, white);
-}
-
-.column-flex {
-    display: flex;
-    justify-content: space-evenly;
-    background-color: white
-}
-
-.main-container {
-    padding-left: 0px;
-    padding-right: 0px;
-    max-width: 100%;
 }
 
 .hero-container {
@@ -51,7 +53,7 @@ body {
     position: relative;
 }
 
-.hero-picture{
+.hero-picture {
     position: absolute;
     height: 100%;
     top: 0;
@@ -70,6 +72,18 @@ body {
     text-align: center;
     background-color: rgba(255,255,255,0.8);
     padding: 80px 0;
-
 }
 
+.container--full-width {
+    padding-left: 0px;
+    padding-right: 0px;
+    max-width: 100%;
+    width: 100%;
+}
+
+.container2 {
+    padding-left: 0px;
+    padding-right: 0px;
+    max-width: 100%;
+    width: 100%;
+}

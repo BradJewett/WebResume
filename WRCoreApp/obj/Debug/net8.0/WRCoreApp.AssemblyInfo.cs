@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WRCoreApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02bce7c1aef0fbc4280a7ba0fc29bcdb697a6363")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb447f0877c3b1c0fa41c1526c1d8775ad022192")]
 [assembly: System.Reflection.AssemblyProductAttribute("WRCoreApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WRCoreApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

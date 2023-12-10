@@ -5,7 +5,7 @@
     ViewData["Title"] = "Home page";
 }
 <!-- Hero image and text continer, full width container-->
-<div class="container-full-width hero-container">
+<div class="container--full-width hero-container">
     <div class="hero-grid-wrapper">
         <picture class="hero-picture">
             <img src="media/hero-vista.jpg" class="hero-img"/>
@@ -16,17 +16,26 @@
         </div>
     </div>
 </div>
-<div class="column-flex"> 
-    <div class="page-column">
-        <h1>Column Left</h1>
-        <p>Left Column Text</p>
+<div class="container--full-width">
+    <div class="grid--full-width">
+        <div class="grid--row">
+            <div class="grid--column">
+                <div class="grid--tile">
+                    <h1 class="display-6">Contact</h1>
+                    <p><a href="mailto:bjewett99@gmail.com">bjewett99@gmail.com</a></p>
+                    <p>(802) 730 6236</p>
+                </div>
+            </div>
+            <div class="grid--column">
+                <div class="grid--tile">
+                    <h1 class="display-6">Education</h1>
+                    <p>B.S. Computer Science</p>
+                    <p>University of VT, 2019</p>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="page-column">
-        <h1>Column Center</h1>
-        <p>Center Column Text</p>
-    </div>
-    <div class="page-column">
-        <h1>Column Right</h1>
-        <p>Right Column Text</p>
-    </div>
+</div>
+<div class="container--full-width">
+
 </div>
