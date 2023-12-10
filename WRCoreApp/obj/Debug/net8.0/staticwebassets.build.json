@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VLoA25gG7FLQ0wsAl80dKD9rlkJTRLQDZBodMWrNLFM=",
+  "Hash": "uh2/2NWWoUtZAFnQf0PYbgK3Onuudy9xtTNc121uJdU=",
   "Source": "WRCoreApp",
   "BasePath": "_content/WRCoreApp",
   "Mode": "Default",
@@ -1193,6 +1193,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Brad\\source\\repos\\WebResume2\\WRCoreApp\\wwwroot\\media\\hero-vista.jpg",
+      "SourceId": "WRCoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brad\\source\\repos\\WebResume2\\WRCoreApp\\wwwroot\\",
+      "BasePath": "_content/WRCoreApp",
+      "RelativePath": "media/hero-vista.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\hero-vista.jpg"
     }
   ]
 }

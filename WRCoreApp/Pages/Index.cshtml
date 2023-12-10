@@ -1,19 +1,32 @@
-﻿@* Razor page*@
+﻿@* Razor page *@
 @page
 @model IndexModel
 @{
     ViewData["Title"] = "Home page";
 }
-
-<div class="text-center">
-    <h1 class="display-4">Brad Jewett</h1>
-    <p>What would you like to know about me?</p>
+<!-- Hero image and text continer, full width container-->
+<div class="container-full-width hero-container">
+    <div class="hero-grid-wrapper">
+        <picture class="hero-picture">
+            <img src="media/hero-vista.jpg" class="hero-img"/>
+        </picture>
+        <div class="hero-text">
+            <h1 class="display-4">Brad Jewett</h1>
+            <p>What would you like to know about me?</p>
+        </div>
+    </div>
 </div>
-<div class="text-center"> 
+<div class="column-flex"> 
     <div class="page-column">
         <h1>Column Left</h1>
+        <p>Left Column Text</p>
+    </div>
+    <div class="page-column">
+        <h1>Column Center</h1>
+        <p>Center Column Text</p>
     </div>
     <div class="page-column">
         <h1>Column Right</h1>
+        <p>Right Column Text</p>
     </div>
 </div>

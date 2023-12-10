@@ -22,11 +22,54 @@ body {
 }
 
 .page-column {
-    display: inline-flex;
-    flex: 50%;
+    position: center;
 }
 
 .nav-item-selected {
     font-weight: bold;
+    background-image: linear-gradient(grey, white);
+}
+
+.column-flex {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white
+}
+
+.main-container {
+    padding-left: 0px;
+    padding-right: 0px;
+    max-width: 100%;
+}
+
+.hero-container {
+    position: relative;
+}
+
+.hero-grid-wrapper {
+    padding: 80px 0;
+    position: relative;
+}
+
+.hero-picture{
+    position: absolute;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.hero-img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.hero-text {
+    position: relative;
+    text-align: center;
+    background-color: rgba(255,255,255,0.8);
+    padding: 80px 0;
+
 }
 
